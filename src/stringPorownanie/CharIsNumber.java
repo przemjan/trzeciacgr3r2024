@@ -2,7 +2,7 @@ package stringPorownanie;
 
 public class CharIsNumber {
     public static void main(String[] args) {
-        char litera1 = 'Z';
+        char litera1 = 'Ż';
         char litera2 = 'b';
 
         System.out.println(litera1+""+litera2);

@@ -20,7 +20,7 @@ public class Srednia4 {
         else if (srednia > 3) {
             System.out.println("Średnio " + srednia);
         }
-        else if (srednia >=2) {
+        else if (srednia >2) {
             System.out.println("kiepsko" + srednia);
         }
         else if(srednia <2) {
